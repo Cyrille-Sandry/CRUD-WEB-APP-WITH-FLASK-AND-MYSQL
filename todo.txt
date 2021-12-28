@@ -1,0 +1,22 @@
+i : Web Application CRUD Using Flask and MySQL
+
+Create a database and a table in SQLs 
+
+Create a Python project in Visual Studio 
+
+install venv python windows 
+    #pip install virtualenv
+ 	# Creates the virtual enviroment.
+	virtualenv venv
+    # Activates virtual enviroment.
+	source venv/bin/activate
+
+Setting up a Flask #
+Install Python Package as "Pypyodbc" o "flask_mysql"
+MySQL Database Connection
+Create a config file for the database
+Create a connection file
+Create new record
+Read Data
+Update existing record
+Delete data
